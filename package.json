@@ -1,7 +1,6 @@
 {
   "name": "everydayTime",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.1",
@@ -27,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/ResponseState200/everydayTime/issues"
   },
-  "homepage": "https://github.com/ResponseState200/everydayTime#readme"
+  "homepage": "https://github.com/ResponseState200/everydayTime#readme",
+  "description": ""
 }
